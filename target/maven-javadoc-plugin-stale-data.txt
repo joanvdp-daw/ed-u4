@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'D:/MegaSync/00 - CFGS DAW/Primer/02 - Entorns de Desenvolupament/04 - Optimització i documentació/Tasca/deposito/Deposito/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/MegaSync/00 - CFGS DAW/Primer/02 - Entorns de Desenvolupament/04 - Optimització i documentació/Tasca/deposito/Deposito/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Main 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Main 1.0-SNAPSHOT API'
+cuentas
+D:\MegaSync\00 - CFGS DAW\Primer\02 - Entorns de Desenvolupament\04 - Optimització i documentació\Tasca\deposito\Deposito\src\main\java = 1772201407402
+D:\MegaSync\00 - CFGS DAW\Primer\02 - Entorns de Desenvolupament\04 - Optimització i documentació\Tasca\deposito\Deposito\target\reports\apidocs\allclasses-index.html = 1772216331461
+D:\MegaSync\00 - CFGS DAW\Primer\02 - Entorns de Desenvolupament\04 - Optimització i documentació\Tasca\deposito\Deposito\target\reports\apidocs\allpackages-index.html = 1772216331465
+D:\MegaSync\00 - CFGS DAW\Primer\02 - Entorns de Desenvolupament\04 - Optimització i documentació\Tasca\deposito\Deposito\target\reports\apidocs\element-list = 1772216331423
+D:\MegaSync\00 - CFGS DAW\Primer\02 - Entorns de Desenvolupament\04 - Optimització i documentació\Tasca\deposito\Deposito\target\reports\apidocs\help-doc.html = 1772216331490
+D:\MegaSync\00 - CFGS DAW\Primer\02 - Entorns de Desenvolupament\04 - Optimització i documentació\Tasca\deposito\Deposito\target\reports\apidocs\index-all.html = 1772216331481
+D:\MegaSync\00 - CFGS DAW\Primer\02 - Entorns de Desenvolupament\04 - Optimització i documentació\Tasca\deposito\Deposito\target\reports\apidocs\index.html = 1772216331487
+D:\MegaSync\00 - CFGS DAW\Primer\02 - Entorns de Desenvolupament\04 - Optimització i documentació\Tasca\deposito\Deposito\target\reports\apidocs\member-search-index.js = 1772216331471
+D:\MegaSync\00 - CFGS DAW\Primer\02 - Entorns de Desenvolupament\04 - Optimització i documentació\Tasca\deposito\Deposito\target\reports\apidocs\module-search-index.js = 1772216331467
+D:\MegaSync\00 - CFGS DAW\Primer\02 - Entorns de Desenvolupament\04 - Optimització i documentació\Tasca\deposito\Deposito\target\reports\apidocs\overview-tree.html = 1772216331451
+D:\MegaSync\00 - CFGS DAW\Primer\02 - Entorns de Desenvolupament\04 - Optimització i documentació\Tasca\deposito\Deposito\target\reports\apidocs\package-search-index.js = 1772216331468
+D:\MegaSync\00 - CFGS DAW\Primer\02 - Entorns de Desenvolupament\04 - Optimització i documentació\Tasca\deposito\Deposito\target\reports\apidocs\search.html = 1772216331485
+D:\MegaSync\00 - CFGS DAW\Primer\02 - Entorns de Desenvolupament\04 - Optimització i documentació\Tasca\deposito\Deposito\target\reports\apidocs\tag-search-index.js = 1772216331472
+D:\MegaSync\00 - CFGS DAW\Primer\02 - Entorns de Desenvolupament\04 - Optimització i documentació\Tasca\deposito\Deposito\target\reports\apidocs\type-search-index.js = 1772216331470
